@@ -1,0 +1,1393 @@
+TITLE: RW 2112 - EDL
+FCM: DROP FRAME
+
+001        AX NONE  C        00:00:02:01 00:00:18:28 01:00:00:00 01:00:16:27  
+* FROM CLIP NAME:  DANIELCAGE"CATCHMEWHENIFALL"TRK1INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+002        AX NONE  C        00:03:58:28 00:04:00:22 01:00:16:27 01:00:18:19  
+* FROM CLIP NAME:  DANIELCAGE"CATCHMEWHENIFALL"TRK1INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+003        AX NONE  C        00:00:00:09 00:00:10:12 01:00:18:19 01:00:28:22  
+* FROM CLIP NAME:  PAULCASEY"BLOWAWAYTHECLOUDS"TRK2.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+004        AX NONE  C        00:00:00:00 00:00:11:11 01:00:28:26 01:00:40:07  
+* FROM CLIP NAME:  EXTREME"DRUMSOFAUGUST"TRK4INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+005        AX AA    C        00:00:12:17 00:00:16:12 01:00:38:14 01:00:42:09  
+* FROM CLIP NAME:  TREVORMCLEAN"RYAN'SSONG"TRK2.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+006        AX AA    C        00:02:23:21 00:02:26:17 01:00:42:09 01:00:45:05  
+* FROM CLIP NAME:  TREVORMCLEAN"RYAN'SSONG"TRK2.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+007        AX NONE  C        00:00:00:00 00:00:25:03 01:01:40:08 01:02:05:13  
+* FROM CLIP NAME:  BRIGHTWOOD"UNSPOKEN"TRK12INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+008        AX NONE  C        00:00:25:03 00:00:35:29 01:02:05:13 01:02:16:09  
+* FROM CLIP NAME:  BRIGHTWOOD"UNSPOKEN"TRK12INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+009        AX NONE  C        00:00:35:29 00:00:49:26 01:02:16:09 01:02:30:06  
+* FROM CLIP NAME:  BRIGHTWOOD"UNSPOKEN"TRK12INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+010        AX NONE  C        00:01:11:06 00:01:14:28 01:02:30:06 01:02:33:28  
+* FROM CLIP NAME:  BRIGHTWOOD"UNSPOKEN"TRK12INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+011        AX NONE  C        00:01:15:23 00:01:24:07 01:02:33:28 01:02:42:12  
+* FROM CLIP NAME:  BRIGHTWOOD"UNSPOKEN"TRK11.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+012        AX NONE  C        00:01:39:24 00:01:43:01 01:02:42:12 01:02:45:19  
+* FROM CLIP NAME:  BRIGHTWOOD"UNSPOKEN"TRK12INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+013        AX NONE  C        00:01:43:01 00:01:46:09 01:02:45:19 01:02:48:27  
+* FROM CLIP NAME:  BRIGHTWOOD"UNSPOKEN"TRK12INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+014        AX NONE  C        00:01:46:09 00:02:02:22 01:02:48:27 01:03:05:10  
+* FROM CLIP NAME:  BRIGHTWOOD"UNSPOKEN"TRK12INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+015        AX NONE  C        00:04:20:23 00:04:27:00 01:03:05:10 01:03:11:17  
+* FROM CLIP NAME:  BRIGHTWOOD"UNSPOKEN"TRK11.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+016        AX NONE  C        00:00:01:12 00:00:10:12 01:03:18:06 01:03:27:06  
+* FROM CLIP NAME:  REDCOLA"ALLAMERICAN"TRK7INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+017        AX NONE  C        00:00:10:12 00:00:16:10 01:03:27:06 01:03:33:04  
+* FROM CLIP NAME:  REDCOLA"ALLAMERICAN"TRK7INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+018        AX NONE  C        00:00:16:10 00:00:35:19 01:03:33:04 01:03:52:13  
+* FROM CLIP NAME:  REDCOLA"ALLAMERICAN"TRK7INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+019        AX NONE  C        00:00:35:19 00:00:42:00 01:03:52:13 01:03:58:24  
+* FROM CLIP NAME:  REDCOLA"ALLAMERICAN"TRK7INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+020        AX NONE  C        00:00:42:00 00:00:44:09 01:03:58:24 01:04:01:05  
+* FROM CLIP NAME:  REDCOLA"ALLAMERICAN"TRK7INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+021        AX NONE  C        00:00:52:27 00:00:58:28 01:04:01:05 01:04:07:06  
+* FROM CLIP NAME:  REDCOLA"ALLAMERICAN"TRK7INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+022        AX NONE  C        00:00:07:24 00:00:11:11 01:04:07:06 01:04:10:23  
+* FROM CLIP NAME:  REDCOLA"ALLAMERICAN"TRK7INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+023        AX NONE  C        00:00:00:00 00:00:54:00 01:04:20:00 01:05:14:02  
+* FROM CLIP NAME:  BERNADETTEMCCALLION"PIANODREAM"TRK4INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+024        AX NONE  C        00:01:27:19 00:01:36:02 01:05:14:02 01:05:22:15  
+* FROM CLIP NAME:  BERNADETTEMCCALLION"PIANODREAM"TRK4INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+025        AX NONE  C        00:01:50:06 00:02:00:22 01:05:26:08 01:05:36:22  
+* FROM CLIP NAME:  GASSTATIONROBBER"DREAMSAREDEAD"TRK5.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+026        AX NONE  C        00:01:23:27 00:01:24:17 01:05:36:22 01:05:37:12  
+* FROM CLIP NAME:  GASSTATIONROBBER"DREAMSAREDEAD"TRK5.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+027        AX NONE  C        00:01:24:17 00:01:29:26 01:05:37:12 01:05:42:21  
+* FROM CLIP NAME:  GASSTATIONROBBER"DREAMSAREDEAD"TRK5.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+028        AX NONE  C        00:01:29:26 00:01:43:26 01:05:42:21 01:05:56:21  
+* FROM CLIP NAME:  GASSTATIONROBBER"DREAMSAREDEAD"TRK5.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+029        AX NONE  C        00:01:43:26 00:01:45:23 01:05:56:21 01:05:58:18  
+* FROM CLIP NAME:  GASSTATIONROBBER"DREAMSAREDEAD"TRK5.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+030        AX NONE  C        00:02:59:29 00:03:05:26 01:05:58:18 01:06:04:15  
+* FROM CLIP NAME:  GASSTATIONROBBER"DREAMSAREDEAD"TRK5.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+031        AX NONE  C        00:00:06:15 00:00:12:14 01:06:13:13 01:06:19:12  
+* FROM CLIP NAME:  TREVORCARLEE"DEALWITHIT(NAKED)"TRK2.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+032        AX NONE  C        00:00:14:00 00:00:21:14 01:06:19:12 01:06:26:26  
+* FROM CLIP NAME:  TREVORCARLEE"DEALWITHIT(NAKED)"TRK2.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+033        AX NONE  C        00:00:45:14 00:01:09:29 01:06:26:26 01:06:51:09  
+* FROM CLIP NAME:  TREVORCARLEE"DEALWITHIT(NAKED)"TRK2.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+034        AX NONE  C        00:01:17:29 00:01:33:28 01:06:51:09 01:07:07:10  
+* FROM CLIP NAME:  TREVORCARLEE"DEALWITHIT(NAKED)"TRK2.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+035        AX NONE  C        00:02:21:29 00:02:29:28 01:07:07:10 01:07:15:09  
+* FROM CLIP NAME:  TREVORCARLEE"DEALWITHIT(NAKED)"TRK2.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+036        AX NONE  C        00:02:53:29 00:02:58:12 01:07:15:09 01:07:19:22  
+* FROM CLIP NAME:  TREVORCARLEE"DEALWITHIT(NAKED)"TRK2.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+037        AX NONE  C        00:01:17:29 00:01:41:28 01:07:42:01 01:08:06:02  
+* FROM CLIP NAME:  TREVORCARLEE"DEALWITHIT"TRK1.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+038        AX NONE  C        00:02:21:29 00:02:28:14 01:08:06:02 01:08:12:17  
+* FROM CLIP NAME:  TREVORCARLEE"DEALWITHIT(NAKED)"TRK2.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+039        AX NONE  C        00:02:48:13 00:03:01:09 01:08:12:17 01:08:25:11  
+* FROM CLIP NAME:  TREVORCARLEE"DEALWITHIT(NAKED)"TRK2.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+040        AX NONE  C        00:04:01:22 00:04:10:29 01:08:45:06 01:08:54:13  
+* FROM CLIP NAME:  RYANALEXANDER"FIGHTWHAT"TRK2.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+041        AX NONE  C        00:04:10:29 00:04:15:03 01:08:54:13 01:08:58:17  
+* FROM CLIP NAME:  RYANALEXANDER"FIGHTWHAT"TRK2.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+042        AX NONE  C        00:04:15:03 00:04:47:10 01:08:58:17 01:09:30:26  
+* FROM CLIP NAME:  RYANALEXANDER"FIGHTWHAT"TRK2.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+043        AX NONE  C        00:04:15:03 00:04:50:05 01:09:30:26 01:10:05:28  
+* FROM CLIP NAME:  RYANALEXANDER"FIGHTWHAT"TRK2.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+044        AX NONE  C        00:00:36:26 00:00:51:06 01:10:33:24 01:10:48:04  
+* FROM CLIP NAME:  RYANALEXANDER"FIGHTWHAT"TRK10INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+045        AX NONE  C        00:00:44:11 00:00:51:07 01:10:48:04 01:10:55:00  
+* FROM CLIP NAME:  RYANALEXANDER"FIGHTWHAT"TRK2.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+046        AX NONE  C        00:00:36:27 00:00:42:22 01:10:55:00 01:11:00:27  
+* FROM CLIP NAME:  RYANALEXANDER"FIGHTWHAT"TRK2.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+047        AX NONE  C        00:00:57:07 00:01:00:23 01:11:00:27 01:11:04:11  
+* FROM CLIP NAME:  RYANALEXANDER"FIGHTWHAT"TRK10INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+048        AX NONE  C        00:01:00:23 00:01:05:06 01:11:04:11 01:11:08:24  
+* FROM CLIP NAME:  RYANALEXANDER"FIGHTWHAT"TRK10INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+049        AX NONE  C        00:03:45:13 00:03:58:16 01:11:08:24 01:11:21:27  
+* FROM CLIP NAME:  RYANALEXANDER"FIGHTWHAT"TRK10INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+050        AX NONE  C        00:00:04:04 00:00:13:00 01:11:45:10 01:11:54:06  
+* FROM CLIP NAME:  ANNEMCCUE"COMINGHOMEYESTERDAY"TRK5INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+051        AX NONE  C        00:00:19:26 00:00:29:01 01:11:54:06 01:12:03:13  
+* FROM CLIP NAME:  ANNEMCCUE"COMINGHOMEYESTERDAY"TRK5INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+052        AX NONE  C        00:01:05:26 00:01:19:17 01:12:03:13 01:12:17:04  
+* FROM CLIP NAME:  ANNEMCCUE"COMINGHOMEYESTERDAY"TRK5INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+053        AX NONE  C        00:03:00:05 00:03:14:08 01:12:17:04 01:12:31:07  
+* FROM CLIP NAME:  ANNEMCCUE"COMINGHOMEYESTERDAY"TRK5INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+054        AX NONE  C        00:00:01:00 00:00:08:15 01:13:01:09 01:13:08:24  
+* FROM CLIP NAME:  GRITCH"CONQUERANDRISE"TRK6INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+055        AX NONE  C        00:00:08:15 00:00:15:15 01:13:08:24 01:13:15:24  
+* FROM CLIP NAME:  GRITCH"CONQUERANDRISE"TRK6INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+056        AX NONE  C        00:01:10:11 00:01:35:14 01:13:15:24 01:13:40:27  
+* FROM CLIP NAME:  GRITCH"CONQUERANDRISE"TRK6INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+057        AX NONE  C        00:01:58:09 00:02:21:06 01:13:40:27 01:14:03:24  
+* FROM CLIP NAME:  GRITCH"CONQUERANDRISE"TRK6INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+058        AX NONE  C        00:03:43:15 00:03:59:29 01:14:03:24 01:14:20:08  
+* FROM CLIP NAME:  GRITCH"CONQUERANDRISE"TRK6INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+059        AX NONE  C        00:00:07:13 00:00:10:09 01:14:20:08 01:14:23:04  
+* FROM CLIP NAME:  JUSTINEBENNETT"AMERICA"TRK4INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+060        AX NONE  C        00:00:11:10 00:00:22:12 01:14:23:04 01:14:34:06  
+* FROM CLIP NAME:  JUSTINEBENNETT"AMERICA"TRK3INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+061        AX NONE  C        00:00:33:13 00:00:44:12 01:14:34:06 01:14:45:05  
+* FROM CLIP NAME:  JUSTINEBENNETT"AMERICA"TRK3INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+062        AX NONE  C        00:00:46:03 00:01:01:26 01:14:45:05 01:15:00:28  
+* FROM CLIP NAME:  JUSTINEBENNETT"AMERICA"TRK4INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+063        AX NONE  C        00:00:29:16 00:00:35:03 01:15:00:28 01:15:06:15  
+* FROM CLIP NAME:  JUSTINEBENNETT"AMERICA"TRK4INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+064        AX NONE  C        00:04:03:07 00:04:07:04 01:15:06:15 01:15:10:12  
+* FROM CLIP NAME:  JUSTINEBENNETT"AMERICA"TRK3INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+065        AX NONE  C        00:04:07:04 00:04:20:09 01:15:10:12 01:15:23:17  
+* FROM CLIP NAME:  JUSTINEBENNETT"AMERICA"TRK3INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+066        AX NONE  C        00:00:00:23 00:00:03:00 01:15:23:17 01:15:25:24  
+* FROM CLIP NAME:  WESHUTCHINSON"MAKEITMINE"TRK7INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+067        AX NONE  C        00:00:03:00 00:00:04:09 01:15:25:24 01:15:27:03  
+* FROM CLIP NAME:  WESHUTCHINSON"MAKEITMINE"TRK7INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+068        AX NONE  C        00:00:04:09 00:00:12:22 01:15:27:03 01:15:35:16  
+* FROM CLIP NAME:  WESHUTCHINSON"MAKEITMINE"TRK7INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+069        AX NONE  C        00:00:12:22 00:00:17:27 01:15:35:16 01:15:40:21  
+* FROM CLIP NAME:  WESHUTCHINSON"MAKEITMINE"TRK7INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+070        AX NONE  C        00:00:23:26 00:00:25:21 01:15:40:21 01:15:42:16  
+* FROM CLIP NAME:  WESHUTCHINSON"MAKEITMINE"TRK7INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+071        AX NONE  C        00:00:25:21 00:00:36:22 01:15:42:16 01:15:53:17  
+* FROM CLIP NAME:  WESHUTCHINSON"MAKEITMINE"TRK7INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+072        AX NONE  C        00:00:36:22 00:00:42:21 01:15:53:17 01:15:59:16  
+* FROM CLIP NAME:  WESHUTCHINSON"MAKEITMINE"TRK7INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+073        AX NONE  C        00:00:36:22 00:00:42:21 01:15:59:16 01:16:05:17  
+* FROM CLIP NAME:  WESHUTCHINSON"MAKEITMINE"TRK7INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+074        AX NONE  C        00:00:42:21 00:00:48:21 01:16:05:17 01:16:11:17  
+* FROM CLIP NAME:  WESHUTCHINSON"MAKEITMINE"TRK7INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+075        AX NONE  C        00:00:12:22 00:00:21:05 01:16:11:17 01:16:20:00  
+* FROM CLIP NAME:  WESHUTCHINSON"MAKEITMINE"TRK7INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+076        AX NONE  C        00:00:21:05 00:00:24:21 01:16:20:00 01:16:23:16  
+* FROM CLIP NAME:  WESHUTCHINSON"MAKEITMINE"TRK7INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+077        AX NONE  C        00:00:18:22 00:00:24:21 01:16:23:16 01:16:29:15  
+* FROM CLIP NAME:  WESHUTCHINSON"MAKEITMINE"TRK7INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+078        AX NONE  C        00:03:28:18 00:03:41:01 01:16:29:15 01:16:41:28  
+* FROM CLIP NAME:  WESHUTCHINSON"MAKEITMINE"TRK7INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+079        AX NONE  C        00:00:01:15 00:00:03:06 01:16:50:05 01:16:51:26  
+* FROM CLIP NAME:  DEVLINMURPHY"YOU"TRK9INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+080        AX NONE  C        00:00:03:06 00:00:28:17 01:16:51:26 01:17:17:09  
+* FROM CLIP NAME:  DEVLINMURPHY"YOU"TRK9INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+081        AX NONE  C        00:02:49:16 00:02:49:28 01:17:17:09 01:17:17:21  
+* FROM CLIP NAME:  DEVLINMURPHY"YOU"TRK9INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+082        AX NONE  C        00:02:49:28 00:03:04:24 01:17:17:21 01:17:32:15  
+* FROM CLIP NAME:  DEVLINMURPHY"YOU"TRK9INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+083        AX NONE  C        00:03:39:02 00:03:49:03 01:17:32:15 01:17:42:16  
+* FROM CLIP NAME:  DEVLINMURPHY"YOU"TRK9INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+084        AX NONE  C        00:00:01:29 00:00:35:06 01:17:46:06 01:18:19:15  
+* FROM CLIP NAME:  PAILBOY"AA"TRK3.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+085        AX NONE  C        00:02:16:10 00:02:21:00 01:18:19:15 01:18:24:05  
+* FROM CLIP NAME:  PAILBOY"AA"TRK3.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+086        AX NONE  C        00:02:21:00 00:02:24:02 01:18:24:05 01:18:27:07  
+* FROM CLIP NAME:  PAILBOY"AA"TRK3.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+087        AX NONE  C        00:00:01:02 00:00:10:05 01:18:49:27 01:18:59:00  
+* FROM CLIP NAME:  WESHUTCHINSON"MOVEON"TRK3INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+088        AX NONE  C        00:00:10:05 00:00:11:26 01:18:59:00 01:19:00:23  
+* FROM CLIP NAME:  WESHUTCHINSON"MOVEON"TRK3INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+089        AX NONE  C        00:00:11:26 00:00:28:14 01:19:00:23 01:19:17:11  
+* FROM CLIP NAME:  WESHUTCHINSON"MOVEON"TRK3INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+090        AX NONE  C        00:00:28:14 00:00:42:04 01:19:17:11 01:19:31:01  
+* FROM CLIP NAME:  WESHUTCHINSON"MOVEON"TRK3INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+091        AX NONE  C        00:00:51:07 00:01:00:11 01:19:31:01 01:19:40:03  
+* FROM CLIP NAME:  WESHUTCHINSON"MOVEON"TRK3INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+092        AX NONE  C        00:03:10:20 00:03:22:24 01:19:40:03 01:19:52:07  
+* FROM CLIP NAME:  WESHUTCHINSON"MOVEON"TRK3INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+093        AX NONE  C        00:00:05:19 00:00:14:19 01:20:32:07 01:20:41:07  
+* FROM CLIP NAME:  PLEXUS"DUB&BASS"TRK9.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+094        AX NONE  C        00:00:14:19 00:00:43:22 01:20:41:07 01:21:10:12  
+* FROM CLIP NAME:  PLEXUS"DUB&BASS"TRK9.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+095        AX NONE  C        00:00:59:07 00:01:04:12 01:21:10:12 01:21:15:15  
+* FROM CLIP NAME:  PLEXUS"DUB&BASS"TRK9.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+096        AX NONE  C        00:02:03:28 00:02:12:20 01:21:15:15 01:21:24:07  
+* FROM CLIP NAME:  PLEXUS"DUB&BASS"TRK9.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+097        AX NONE  C        00:02:12:20 00:02:13:18 01:21:24:07 01:21:25:05  
+* FROM CLIP NAME:  PLEXUS"DUB&BASS"TRK9.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+098        AX NONE  C        00:00:00:00 00:00:03:03 01:21:31:11 01:21:34:14  
+* FROM CLIP NAME:  PLUSHGUN"HOWWEROLL"TRK3.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+099        AX NONE  C        00:00:03:03 00:00:06:10 01:21:34:14 01:21:37:21  
+* FROM CLIP NAME:  PLUSHGUN"HOWWEROLL"TRK3.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+100        AX NONE  C        00:00:06:10 00:00:17:03 01:21:37:21 01:21:48:14  
+* FROM CLIP NAME:  PLUSHGUN"HOWWEROLL"TRK3.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+101        AX NONE  C        00:00:52:11 00:00:59:12 01:21:48:14 01:21:55:15  
+* FROM CLIP NAME:  PLUSHGUN"HOWWEROLL"TRK3.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+102        AX NONE  C        00:02:01:18 00:02:06:05 01:21:55:15 01:22:00:04  
+* FROM CLIP NAME:  PLUSHGUN"HOWWEROLL"TRK3.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+103        AX NONE  C        00:02:06:05 00:02:14:08 01:22:00:04 01:22:08:07  
+* FROM CLIP NAME:  PLUSHGUN"HOWWEROLL"TRK3.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+104        AX NONE  C        00:02:14:08 00:02:17:20 01:22:08:07 01:22:11:19  
+* FROM CLIP NAME:  PLUSHGUN"HOWWEROLL"TRK3.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+105        AX NONE  C        00:02:17:20 00:02:21:21 01:22:11:19 01:22:15:20  
+* FROM CLIP NAME:  PLUSHGUN"HOWWEROLL"TRK3.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+106        AX NONE  C        00:02:21:21 00:02:22:23 01:22:15:20 01:22:16:22  
+* FROM CLIP NAME:  PLUSHGUN"HOWWEROLL"TRK3.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+107        AX NONE  C        00:02:28:12 00:02:31:07 01:22:16:22 01:22:19:17  
+* FROM CLIP NAME:  PLUSHGUN"HOWWEROLL"TRK3.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+108        AX NONE  C        00:02:55:11 00:02:57:25 01:22:19:17 01:22:22:01  
+* FROM CLIP NAME:  PLUSHGUN"HOWWEROLL"TRK1INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+109        AX NONE  C        00:00:00:03 00:00:06:22 01:22:22:01 01:22:28:20  
+* FROM CLIP NAME:  WILDWHIRLED"GOTRHYTHM"TRK8INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+110        AX NONE  C        00:00:06:22 00:00:09:02 01:22:28:20 01:22:31:00  
+* FROM CLIP NAME:  WILDWHIRLED"GOTRHYTHM"TRK8INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+111        AX NONE  C        00:00:09:02 00:00:18:18 01:22:31:00 01:22:40:16  
+* FROM CLIP NAME:  WILDWHIRLED"GOTRHYTHM"TRK8INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+112        AX NONE  C        00:01:53:11 00:01:59:09 01:22:40:16 01:22:46:14  
+* FROM CLIP NAME:  WILDWHIRLED"GOTRHYTHM"TRK8INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+113        AX NONE  C        00:02:46:10 00:02:48:01 01:22:46:14 01:22:48:05  
+* FROM CLIP NAME:  WILDWHIRLED"GOTRHYTHM"TRK8INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+114        AX NONE  C        00:00:00:19 00:00:05:16 01:22:50:01 01:22:54:28  
+* FROM CLIP NAME:  THEAMERICANLIFE"THAT'SLIFE"TRK6INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+115        AX NONE  C        00:00:11:21 00:00:13:01 01:22:54:28 01:22:56:08  
+* FROM CLIP NAME:  THEAMERICANLIFE"THAT'SLIFE"TRK6INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+116        AX NONE  C        00:00:13:01 00:00:20:24 01:22:56:08 01:23:04:03  
+* FROM CLIP NAME:  THEAMERICANLIFE"THAT'SLIFE"TRK6INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+117        AX NONE  C        00:00:24:13 00:00:28:02 01:23:04:03 01:23:07:22  
+* FROM CLIP NAME:  THEAMERICANLIFE"THAT'SLIFE"TRK6INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+118        AX NONE  C        00:00:28:02 00:00:31:19 01:23:07:22 01:23:11:09  
+* FROM CLIP NAME:  THEAMERICANLIFE"THAT'SLIFE"TRK6INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+119        AX NONE  C        00:03:18:15 00:03:23:19 01:23:11:09 01:23:16:13  
+* FROM CLIP NAME:  THEAMERICANLIFE"THAT'SLIFE"TRK6INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+120        AX NONE  C        00:00:58:18 00:01:13:27 01:23:21:15 01:23:36:22  
+* FROM CLIP NAME:  BROWNSHOE"SCREAMINGDINOSAURS"TRK4INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+121        AX NONE  C        00:04:48:07 00:04:58:15 01:23:36:22 01:23:47:00  
+* FROM CLIP NAME:  BROWNSHOE"SCREAMINGDINOSAURS"TRK4INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+122        AX NONE  C        00:00:01:13 00:00:02:22 01:24:17:02 01:24:18:11  
+* FROM CLIP NAME:  THENODS"MOSTFORUS"TRK6INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+123        AX NONE  C        00:00:02:22 00:00:25:21 01:24:18:11 01:24:41:10  
+* FROM CLIP NAME:  THENODS"MOSTFORUS"TRK6INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+124        AX NONE  C        00:00:25:21 00:00:27:21 01:24:41:10 01:24:43:10  
+* FROM CLIP NAME:  THENODS"MOSTFORUS"TRK6INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+125        AX NONE  C        00:03:31:07 00:03:33:09 01:24:43:10 01:24:45:12  
+* FROM CLIP NAME:  THENODS"MOSTFORUS"TRK6INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+126        AX NONE  C        00:00:01:17 00:00:02:19 01:24:45:12 01:24:46:14  
+* FROM CLIP NAME:  PI"MONSTER"TRK3INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+127        AX NONE  C        00:00:02:19 00:00:05:16 01:24:46:14 01:24:49:11  
+* FROM CLIP NAME:  PI"MONSTER"TRK3INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+128        AX NONE  C        00:00:10:27 00:00:16:09 01:24:49:11 01:24:54:23  
+* FROM CLIP NAME:  PI"MONSTER"TRK3INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+129        AX NONE  C        00:00:53:16 00:00:54:18 01:24:54:23 01:24:55:25  
+* FROM CLIP NAME:  PI"MONSTER"TRK3INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+130        AX NONE  C        00:00:54:18 00:00:57:01 01:24:55:25 01:24:58:08  
+* FROM CLIP NAME:  PI"MONSTER"TRK3INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+131        AX NONE  C        00:00:57:01 00:01:00:07 01:24:58:08 01:25:01:14  
+* FROM CLIP NAME:  PI"MONSTER"TRK3INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+132        AX NONE  C        00:01:00:07 00:01:08:06 01:25:01:14 01:25:09:13  
+* FROM CLIP NAME:  PI"MONSTER"TRK3INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+133        AX NONE  C        00:00:32:27 00:00:33:18 01:25:14:04 01:25:14:25  
+* FROM CLIP NAME:  PI"MONSTER"TRK3INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+134        AX NONE  C        00:00:33:18 00:00:46:26 01:25:14:25 01:25:28:03  
+* FROM CLIP NAME:  PI"MONSTER"TRK3INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+135        AX NONE  C        00:03:25:17 00:03:27:24 01:25:28:03 01:25:30:10  
+* FROM CLIP NAME:  PI"MONSTER"TRK3INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+136        AX NONE  C        00:02:11:16 00:02:11:23 01:25:30:10 01:25:30:17  
+* FROM CLIP NAME:  CRUVSEMAZIN"GO"TRK22INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+137        AX NONE  C        00:02:09:14 00:02:11:18 01:25:30:17 01:25:32:21  
+* FROM CLIP NAME:  CRUVSEMAZIN"GO"TRK22INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+138        AX NONE  C        00:02:11:18 00:02:20:23 01:25:32:21 01:25:41:26  
+* FROM CLIP NAME:  CRUVSEMAZIN"GO"TRK22INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+139        AX NONE  C        00:02:27:20 00:02:35:22 01:25:41:26 01:25:49:28  
+* FROM CLIP NAME:  CRUVSEMAZIN"GO"TRK22INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+140        AX NONE  C        00:03:04:19 00:03:09:04 01:25:49:28 01:25:54:13  
+* FROM CLIP NAME:  CRUVSEMAZIN"GO"TRK22INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+141        AX NONE  C        00:03:09:04 00:03:13:24 01:25:54:13 01:25:59:03  
+* FROM CLIP NAME:  CRUVSEMAZIN"GO"TRK22INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+142        AX NONE  C        00:01:41:15 00:01:44:27 01:25:59:03 01:26:02:17  
+* FROM CLIP NAME:  CRUVSEMAZIN"GO"TRK22INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+143        AX NONE  C        00:01:44:27 00:01:50:20 01:26:02:17 01:26:08:10  
+* FROM CLIP NAME:  CRUVSEMAZIN"GO"TRK22INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+144        AX NONE  C        00:03:18:12 00:03:19:15 01:26:08:10 01:26:09:13  
+* FROM CLIP NAME:  CRUVSEMAZIN"GO"TRK22INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+145        AX NONE  C        00:03:20:20 00:03:22:24 01:26:09:13 01:26:11:17  
+* FROM CLIP NAME:  CRUVSEMAZIN"GO"TRK22INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+146        AX NONE  C        00:03:22:24 00:03:25:04 01:26:11:17 01:26:13:27  
+* FROM CLIP NAME:  CRUVSEMAZIN"GO"TRK22INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+147        AX AA    C        00:00:01:28 00:00:03:15 01:26:12:28 01:26:14:15  
+* FROM CLIP NAME:  BENCHGRINDER"SHANEX"TRK2INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+148        AX AA    C        00:00:03:15 00:00:08:15 01:26:14:15 01:26:19:15  
+* FROM CLIP NAME:  BENCHGRINDER"SHANEX"TRK2INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+149        AX AA    C        00:00:08:15 00:00:17:29 01:26:19:15 01:26:28:29  
+* FROM CLIP NAME:  BENCHGRINDER"SHANEX"TRK2INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+150        AX AA    C        00:00:17:29 00:00:33:07 01:26:28:29 01:26:44:07  
+* FROM CLIP NAME:  BENCHGRINDER"SHANEX"TRK2INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+151        AX AA    C        00:00:37:08 00:00:41:12 01:26:44:07 01:26:48:11  
+* FROM CLIP NAME:  BENCHGRINDER"SHANEX"TRK2INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+152        AX AA    C        00:00:00:00 00:00:13:18 01:26:50:06 01:27:03:26  
+* FROM CLIP NAME:  BEATSANDRHYMES"SOFRESH"TRK10INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+153        AX AA    C        00:00:24:15 00:00:35:17 01:27:03:26 01:27:14:28  
+* FROM CLIP NAME:  BEATSANDRHYMES"SOFRESH"TRK10INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+154        AX AA    C        00:02:57:14 00:03:02:09 01:27:14:28 01:27:19:21  
+* FROM CLIP NAME:  BEATSANDRHYMES"SOFRESH"TRK10INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+155        AX NONE  C        00:00:00:00 00:00:02:00 01:27:27:28 01:27:29:28  
+* FROM CLIP NAME:  LEILA"TOTHETOP"TRK9.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+156        AX NONE  C        00:00:02:00 00:00:05:21 01:27:29:28 01:27:33:19  
+* FROM CLIP NAME:  LEILA"TOTHETOP"TRK9.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+157        AX NONE  C        00:00:05:21 00:00:08:02 01:27:33:19 01:27:36:00  
+* FROM CLIP NAME:  LEILA"TOTHETOP"TRK9.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+158        AX NONE  C        00:00:08:02 00:00:09:21 01:27:36:00 01:27:37:19  
+* FROM CLIP NAME:  LEILA"TOTHETOP"TRK9.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+159        AX NONE  C        00:00:09:21 00:00:16:04 01:27:37:19 01:27:44:02  
+* FROM CLIP NAME:  LEILA"TOTHETOP"TRK9.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+160        AX NONE  C        00:02:53:13 00:02:55:13 01:27:44:02 01:27:46:02  
+* FROM CLIP NAME:  LEILA"TOTHETOP"TRK9.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+161        AX NONE  C        00:02:57:14 00:03:01:23 01:27:46:02 01:27:50:09  
+* FROM CLIP NAME:  LEILA"TOTHETOP"TRK9.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+162        AX AA    C        00:00:45:26 00:00:48:14 01:27:49:13 01:27:52:01  
+* FROM CLIP NAME:  LEILA"TOTHETOP"TRK10INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+163        AX AA    C        00:00:48:14 00:00:50:15 01:27:52:01 01:27:54:02  
+* FROM CLIP NAME:  LEILA"TOTHETOP"TRK10INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+164        AX AA    C        00:00:24:10 00:00:35:21 01:27:54:02 01:28:05:15  
+* FROM CLIP NAME:  LEILA"TOTHETOP"TRK10INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+165        AX AA    C        00:00:37:23 00:00:42:13 01:28:05:15 01:28:10:05  
+* FROM CLIP NAME:  LEILA"TOTHETOP"TRK10INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+166        AX AA    C        00:00:42:13 00:00:46:14 01:28:10:05 01:28:14:06  
+* FROM CLIP NAME:  LEILA"TOTHETOP"TRK10INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+167        AX AA    C        00:00:36:09 00:00:42:18 01:28:14:06 01:28:20:15  
+* FROM CLIP NAME:  LEILA"TOTHETOP"TRK9.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+168        AX AA    C        00:02:49:26 00:02:51:15 01:28:20:15 01:28:22:04  
+* FROM CLIP NAME:  LEILA"TOTHETOP"TRK10INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+169        AX AA    C        00:02:51:15 00:02:52:16 01:28:22:04 01:28:23:05  
+* FROM CLIP NAME:  LEILA"TOTHETOP"TRK10INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+170        AX AA    C        00:02:52:16 00:02:55:07 01:28:23:05 01:28:25:26  
+* FROM CLIP NAME:  LEILA"TOTHETOP"TRK10INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+171        AX NONE  C        00:00:00:13 00:00:05:18 01:28:25:20 01:28:30:25  
+* FROM CLIP NAME:  MATTLOWELL"FALLINGTHROUGHTHECRACKS"TRK2.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+172        AX NONE  C        00:00:05:18 00:00:09:16 01:28:30:25 01:28:34:23  
+* FROM CLIP NAME:  MATTLOWELL"FALLINGTHROUGHTHECRACKS"TRK2.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+173        AX NONE  C        00:00:03:28 00:00:18:25 01:28:34:23 01:28:49:20  
+* FROM CLIP NAME:  MATTLOWELL"FALLINGTHROUGHTHECRACKS"TRK2INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+174        AX NONE  C        00:00:18:25 00:00:19:14 01:28:49:20 01:28:50:09  
+* FROM CLIP NAME:  MATTLOWELL"FALLINGTHROUGHTHECRACKS"TRK2INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+175        AX NONE  C        00:00:19:14 00:00:35:12 01:28:50:09 01:29:06:09  
+* FROM CLIP NAME:  MATTLOWELL"FALLINGTHROUGHTHECRACKS"TRK2INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+176        AX NONE  C        00:00:30:25 00:00:37:00 01:29:06:09 01:29:12:14  
+* FROM CLIP NAME:  MATTLOWELL"FALLINGTHROUGHTHECRACKS"TRK2.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+177        AX NONE  C        00:00:41:18 00:00:45:27 01:29:12:14 01:29:16:23  
+* FROM CLIP NAME:  MATTLOWELL"FALLINGTHROUGHTHECRACKS"TRK2INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+178        AX NONE  C        00:01:01:08 00:01:17:23 01:29:16:23 01:29:33:08  
+* FROM CLIP NAME:  MATTLOWELL"FALLINGTHROUGHTHECRACKS"TRK2INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+179        AX NONE  C        00:00:01:04 00:00:08:02 01:29:58:25 01:30:05:23  
+* FROM CLIP NAME:  JAMIELYNNNOON"BLIND"TRK2INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+180        AX NONE  C        00:00:21:26 00:00:45:25 01:30:05:23 01:30:29:22  
+* FROM CLIP NAME:  JAMIELYNNNOON"BLIND"TRK2INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+181        AX NONE  C        00:00:45:25 00:00:56:03 01:30:29:22 01:30:40:00  
+* FROM CLIP NAME:  JAMIELYNNNOON"BLIND"TRK2INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+182        AX NONE  C        00:03:32:02 00:03:33:22 01:30:40:00 01:30:41:20  
+* FROM CLIP NAME:  JAMIELYNNNOON"BLIND"TRK2INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+183        AX NONE  C        00:03:33:22 00:03:34:09 01:30:41:20 01:30:42:07  
+* FROM CLIP NAME:  JAMIELYNNNOON"BLIND"TRK2INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+184        AX NONE  C        00:03:36:18 00:03:42:26 01:30:42:07 01:30:48:15  
+* FROM CLIP NAME:  JAMIELYNNNOON"BLIND"TRK2INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+185        AX NONE  C        00:00:00:11 00:00:05:25 01:31:19:13 01:31:24:27  
+* FROM CLIP NAME:  LINDSAYRAESPURLOCK"YOUHAVEMYHEART"TRK9INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+186        AX NONE  C        00:00:00:11 00:00:15:04 01:31:24:27 01:31:39:20  
+* FROM CLIP NAME:  LINDSAYRAESPURLOCK"YOUHAVEMYHEART"TRK9INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+187        AX NONE  C        00:00:15:04 00:00:16:05 01:31:39:20 01:31:40:21  
+* FROM CLIP NAME:  LINDSAYRAESPURLOCK"YOUHAVEMYHEART"TRK9INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+188        AX NONE  C        00:00:16:05 00:00:16:29 01:31:40:28 01:31:41:22  
+* FROM CLIP NAME:  LINDSAYRAESPURLOCK"YOUHAVEMYHEART"TRK9INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+189        AX NONE  C        00:00:16:29 00:00:29:25 01:31:41:22 01:31:54:18  
+* FROM CLIP NAME:  LINDSAYRAESPURLOCK"YOUHAVEMYHEART"TRK9INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+190        AX NONE  C        00:01:34:06 00:01:36:01 01:31:54:18 01:31:56:13  
+* FROM CLIP NAME:  LINDSAYRAESPURLOCK"YOUHAVEMYHEART"TRK9INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+191        AX NONE  C        00:02:53:22 00:02:59:06 01:31:56:13 01:32:01:29  
+* FROM CLIP NAME:  LINDSAYRAESPURLOCK"YOUHAVEMYHEART"TRK9INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+192        AX NONE  C        00:02:59:06 00:03:00:11 01:32:01:29 01:32:03:02  
+* FROM CLIP NAME:  LINDSAYRAESPURLOCK"YOUHAVEMYHEART"TRK9INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+193        AX NONE  C        00:03:00:11 00:03:01:12 01:32:03:02 01:32:04:03  
+* FROM CLIP NAME:  LINDSAYRAESPURLOCK"YOUHAVEMYHEART"TRK9INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+194        AX NONE  C        00:03:01:12 00:03:02:19 01:32:04:03 01:32:05:10  
+* FROM CLIP NAME:  LINDSAYRAESPURLOCK"YOUHAVEMYHEART"TRK9INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+195        AX NONE  C        00:03:02:19 00:03:05:09 01:32:05:10 01:32:08:00  
+* FROM CLIP NAME:  LINDSAYRAESPURLOCK"YOUHAVEMYHEART"TRK9INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+196        AX NONE  C        00:03:05:09 00:03:07:23 01:32:08:00 01:32:10:14  
+* FROM CLIP NAME:  LINDSAYRAESPURLOCK"YOUHAVEMYHEART"TRK9INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+197        AX NONE  C        00:03:07:23 00:03:26:16 01:32:10:14 01:32:29:07  
+* FROM CLIP NAME:  LINDSAYRAESPURLOCK"YOUHAVEMYHEART"TRK9INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+198        AX NONE  C        00:03:30:04 00:03:37:01 01:32:29:07 01:32:36:04  
+* FROM CLIP NAME:  LINDSAYRAESPURLOCK"YOUHAVEMYHEART"TRK9INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+199        AX NONE  C        00:00:00:06 00:00:04:25 01:32:37:17 01:32:42:06  
+* FROM CLIP NAME:  BROWNSHOE"POPSONG"TRL11INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+200        AX NONE  C        00:00:04:25 00:00:15:01 01:32:42:06 01:32:52:12  
+* FROM CLIP NAME:  BROWNSHOE"POPSONG"TRL11INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+201        AX NONE  C        00:00:51:06 00:00:59:12 01:32:52:12 01:33:00:20  
+* FROM CLIP NAME:  BROWNSHOE"POPSONG"TRL11INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+202        AX NONE  C        00:02:33:08 00:02:39:16 01:33:00:20 01:33:06:28  
+* FROM CLIP NAME:  BROWNSHOE"POPSONG"TRL11INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+203        AX NONE  C        00:00:00:00 00:00:01:09 01:33:06:28 01:33:08:07  
+* FROM CLIP NAME:  WILDWHIRLED"WHATADAY"TRK9.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+204        AX NONE  C        00:00:01:09 00:00:07:22 01:33:08:07 01:33:14:20  
+* FROM CLIP NAME:  WILDWHIRLED"WHATADAY"TRK9.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+205        AX NONE  C        00:00:07:22 00:00:13:26 01:33:14:20 01:33:20:24  
+* FROM CLIP NAME:  WILDWHIRLED"WHATADAY"TRK9.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+206        AX NONE  C        00:00:13:26 00:00:14:29 01:33:20:24 01:33:21:27  
+* FROM CLIP NAME:  WILDWHIRLED"WHATADAY"TRK9.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+207        AX NONE  C        00:01:04:11 00:01:09:23 01:33:21:27 01:33:27:09  
+* FROM CLIP NAME:  WILDWHIRLED"WHATADAY"TRK9.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+208        AX NONE  C        00:01:13:18 00:01:15:26 01:34:06:04 01:34:08:12  
+* FROM CLIP NAME:  EXTREMEJAPANESE"KYOKUMAEUTA"TRK2.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+209        AX NONE  C        00:01:15:26 00:01:21:26 01:34:08:12 01:34:14:12  
+* FROM CLIP NAME:  EXTREMEJAPANESE"KYOKUMAEUTA"TRK2.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+210        AX NONE  C        00:01:44:25 00:01:52:23 01:34:14:12 01:34:22:10  
+* FROM CLIP NAME:  EXTREMEJAPANESE"KYOKUMAEUTA"TRK2.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+211        AX NONE  C        00:00:00:00 00:00:05:09 01:34:34:13 01:34:39:22  
+* FROM CLIP NAME:  THEJAKES"PAIDTHEPIPER"TRK4INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+212        AX NONE  C        00:00:05:09 00:00:06:14 01:34:39:22 01:34:40:27  
+* FROM CLIP NAME:  THEJAKES"PAIDTHEPIPER"TRK4INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+213        AX NONE  C        00:00:06:14 00:00:10:18 01:34:40:27 01:34:45:01  
+* FROM CLIP NAME:  THEJAKES"PAIDTHEPIPER"TRK4INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+214        AX NONE  C        00:02:54:03 00:03:04:22 01:34:45:01 01:34:55:18  
+* FROM CLIP NAME:  THEJAKES"PAIDTHEPIPER"TRK4INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+215        AX NONE  C        00:00:15:27 00:00:30:08 01:34:55:18 01:35:10:01  
+* FROM CLIP NAME:  THEJAKES"PAIDTHEPIPER"TRK4INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+216        AX NONE  C        00:00:35:19 00:00:36:06 01:35:10:01 01:35:10:18  
+* FROM CLIP NAME:  THEJAKES"PAIDTHEPIPER"TRK4INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+217        AX NONE  C        00:00:36:06 00:00:37:20 01:35:10:18 01:35:12:02  
+* FROM CLIP NAME:  THEJAKES"PAIDTHEPIPER"TRK4INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+218        AX NONE  C        00:00:37:20 00:00:44:27 01:35:12:02 01:35:19:09  
+* FROM CLIP NAME:  THEJAKES"PAIDTHEPIPER"TRK4INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+219        AX NONE  C        00:04:11:19 00:04:15:20 01:35:19:09 01:35:23:10  
+* FROM CLIP NAME:  THEJAKES"PAIDTHEPIPER"TRK4INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+220        AX NONE  C        00:00:00:00 00:00:02:22 01:35:24:26 01:35:27:18  
+* FROM CLIP NAME:  THEBEATARDS"FUMANDOMIX2"TRK2.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+221        AX NONE  C        00:00:02:22 00:00:11:05 01:35:27:18 01:35:36:01  
+* FROM CLIP NAME:  THEBEATARDS"FUMANDOMIX2"TRK2.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+222        AX NONE  C        00:00:19:19 00:00:19:20 01:35:36:01 01:35:36:02  
+* FROM CLIP NAME:  THEBEATARDS"FUMANDOMIX2"TRK2.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+223        AX NONE  C        00:00:22:16 00:00:24:00 01:35:36:02 01:35:37:16  
+* FROM CLIP NAME:  THEBEATARDS"FUMANDOMIX2"TRK2.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+224        AX NONE  C        00:00:33:25 00:00:42:03 01:35:42:22 01:35:51:00  
+* FROM CLIP NAME:  THEBEATARDS"FUMANDOMIX2"TRK2.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+225        AX NONE  C        00:00:42:03 00:00:43:21 01:35:51:00 01:35:52:18  
+* FROM CLIP NAME:  THEBEATARDS"FUMANDOMIX2"TRK2.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+226        AX NONE  C        00:04:12:21 00:04:16:26 01:35:52:18 01:35:56:23  
+* FROM CLIP NAME:  THEBEATARDS"FUMANDOMIX2"TRK2.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+227        AX NONE  C        00:00:01:09 00:00:03:08 01:36:26:25 01:36:28:24  
+* FROM CLIP NAME:  THESHEERS"COVERMEUP"TRK9.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+228        AX NONE  C        00:00:03:08 00:00:05:25 01:36:28:24 01:36:31:11  
+* FROM CLIP NAME:  THESHEERS"COVERMEUP"TRK9.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+229        AX NONE  C        00:00:05:25 00:00:10:15 01:36:31:11 01:36:36:01  
+* FROM CLIP NAME:  THESHEERS"COVERMEUP"TRK9.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+230        AX NONE  C        00:00:10:15 00:00:14:17 01:36:36:01 01:36:40:03  
+* FROM CLIP NAME:  THESHEERS"COVERMEUP"TRK9.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+231        AX NONE  C        00:00:14:17 00:00:22:13 01:36:40:03 01:36:47:29  
+* FROM CLIP NAME:  THESHEERS"COVERMEUP"TRK9.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+232        AX NONE  C        00:00:24:07 00:00:39:28 01:36:47:29 01:37:03:22  
+* FROM CLIP NAME:  THESHEERS"COVERMEUP"TRK9.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+233        AX NONE  C        00:00:39:28 00:00:49:09 01:37:03:22 01:37:13:03  
+* FROM CLIP NAME:  THESHEERS"COVERMEUP"TRK9.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+234        AX NONE  C        00:00:49:09 00:00:55:06 01:37:13:03 01:37:19:00  
+* FROM CLIP NAME:  THESHEERS"COVERMEUP"TRK9.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+235        AX NONE  C        00:03:23:21 00:03:25:10 01:37:19:00 01:37:20:19  
+* FROM CLIP NAME:  THESHEERS"COVERMEUP"TRK9.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+236        AX NONE  C        00:03:25:10 00:03:33:06 01:37:20:19 01:37:28:15  
+* FROM CLIP NAME:  THESHEERS"COVERMEUP"TRK9.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+237        AX NONE  C        00:00:00:00 00:00:01:19 01:37:30:24 01:37:32:13  
+* FROM CLIP NAME:  EXTREME"THEUPRISING"TRK5INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+238        AX NONE  C        00:00:01:19 00:00:09:29 01:37:32:13 01:37:40:23  
+* FROM CLIP NAME:  EXTREME"THEUPRISING"TRK5INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+239        AX NONE  C        00:01:36:25 00:01:41:06 01:37:40:23 01:37:45:04  
+* FROM CLIP NAME:  EXTREME"THEUPRISING"TRK5INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+240        AX NONE  C        00:00:00:00 00:00:04:09 01:37:45:17 01:37:49:26  
+* FROM CLIP NAME:  JEREMYMESSERSMITH"LOVEYOUTOPIECES"TRK6INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+241        AX NONE  C        00:00:04:09 00:00:18:06 01:37:49:26 01:38:03:25  
+* FROM CLIP NAME:  JEREMYMESSERSMITH"LOVEYOUTOPIECES"TRK6INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+242        AX NONE  C        00:00:18:06 00:00:31:00 01:38:03:25 01:38:16:19  
+* FROM CLIP NAME:  JEREMYMESSERSMITH"LOVEYOUTOPIECES"TRK6INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+243        AX NONE  C        00:01:03:03 00:01:06:21 01:38:16:19 01:38:20:07  
+* FROM CLIP NAME:  JEREMYMESSERSMITH"LOVEYOUTOPIECES"TRK6INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+244        AX NONE  C        00:03:31:17 00:03:35:16 01:38:20:07 01:38:24:06  
+* FROM CLIP NAME:  JEREMYMESSERSMITH"LOVEYOUTOPIECES"TRK6INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+245        AX NONE  C        00:03:39:16 00:03:42:08 01:38:24:06 01:38:26:28  
+* FROM CLIP NAME:  JEREMYMESSERSMITH"LOVEYOUTOPIECES"TRK6INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+246        AX NONE  C        00:03:42:08 00:03:46:11 01:38:26:28 01:38:31:01  
+* FROM CLIP NAME:  JEREMYMESSERSMITH"LOVEYOUTOPIECES"TRK6INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+247        AX NONE  C        00:00:01:20 00:00:04:04 01:39:01:03 01:39:03:17  
+* FROM CLIP NAME:  BROWNSHOE"GOODNIGHTOLDMAN"TRK10INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+248        AX NONE  C        00:00:04:04 00:00:29:16 01:39:03:17 01:39:28:29  
+* FROM CLIP NAME:  BROWNSHOE"GOODNIGHTOLDMAN"TRK10INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+249        AX NONE  C        00:00:29:16 00:00:33:02 01:39:28:29 01:39:32:15  
+* FROM CLIP NAME:  BROWNSHOE"GOODNIGHTOLDMAN"TRK10INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+250        AX NONE  C        00:01:04:18 00:01:11:07 01:39:32:15 01:39:39:04  
+* FROM CLIP NAME:  BROWNSHOE"GOODNIGHTOLDMAN"TRK10INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+251        AX NONE  C        00:01:14:23 00:01:22:05 01:39:39:04 01:39:46:16  
+* FROM CLIP NAME:  BROWNSHOE"GOODNIGHTOLDMAN"TRK10INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+252        AX NONE  C        00:02:45:06 00:02:50:12 01:39:46:16 01:39:51:22  
+* FROM CLIP NAME:  BROWNSHOE"GOODNIGHTOLDMAN"TRK10INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+253        AX AA    C        00:00:16:00 00:00:16:29 01:39:50:18 01:39:51:17  
+* FROM CLIP NAME:  EXTREME"DRUMSOFAUGUST"TRK4INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+254        AX AA    C        00:00:16:29 00:00:25:15 01:39:51:17 01:40:00:03  
+* FROM CLIP NAME:  EXTREME"DRUMSOFAUGUST"TRK4INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+255        AX AA    C        00:00:26:21 00:00:27:14 01:40:00:03 01:40:00:26  
+* FROM CLIP NAME:  EXTREME"DRUMSOFAUGUST"TRK4INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+256        AX AA    C        00:00:27:14 00:00:31:20 01:40:00:26 01:40:05:02  
+* FROM CLIP NAME:  EXTREME"DRUMSOFAUGUST"TRK4INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+257        AX NONE  C        00:00:53:10 00:00:55:28 01:40:05:02 01:40:07:20  
+* FROM CLIP NAME:  EXTREME"DRUMSOFAUGUST"TRK4INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+258        AX AA    C        00:01:03:00 00:01:05:04 01:40:06:20 01:40:08:24  
+* FROM CLIP NAME:  EXTREME"DRUMSOFAUGUST"TRK4INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+259        AX AA    C        00:01:11:15 00:01:14:15 01:40:08:24 01:40:11:24  
+* FROM CLIP NAME:  EXTREME"DRUMSOFAUGUST"TRK4INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+260        AX AA    C        00:01:14:15 00:01:15:18 01:40:11:24 01:40:12:27  
+* FROM CLIP NAME:  EXTREME"DRUMSOFAUGUST"TRK4INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+261        AX AA    C        00:01:15:18 00:01:16:26 01:40:12:27 01:40:14:05  
+* FROM CLIP NAME:  EXTREME"DRUMSOFAUGUST"TRK4INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+262        AX AA    C        00:01:16:26 00:01:17:11 01:40:14:05 01:40:14:20  
+* FROM CLIP NAME:  EXTREME"DRUMSOFAUGUST"TRK4INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+263        AX AA    C        00:01:17:11 00:01:19:06 01:40:14:20 01:40:16:15  
+* FROM CLIP NAME:  EXTREME"DRUMSOFAUGUST"TRK4INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+264        AX AA    C        00:01:21:26 00:01:22:22 01:40:16:15 01:40:17:11  
+* FROM CLIP NAME:  EXTREME"DRUMSOFAUGUST"TRK4INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+265        AX AA    C        00:01:22:22 00:01:24:00 01:40:17:11 01:40:18:19  
+* FROM CLIP NAME:  EXTREME"DRUMSOFAUGUST"TRK4INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+266        AX AA    C        00:01:18:15 00:01:19:10 01:40:18:19 01:40:19:14  
+* FROM CLIP NAME:  EXTREME"DRUMSOFAUGUST"TRK4INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+267        AX AA    C        00:01:19:06 00:01:20:12 01:40:19:14 01:40:20:20  
+* FROM CLIP NAME:  EXTREME"DRUMSOFAUGUST"TRK4INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+268        AX AA    C        00:01:20:12 00:01:21:26 01:40:20:20 01:40:22:04  
+* FROM CLIP NAME:  EXTREME"DRUMSOFAUGUST"TRK4INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+269        AX AA    C        00:01:24:02 00:01:25:09 01:40:22:04 01:40:23:11  
+* FROM CLIP NAME:  EXTREME"DRUMSOFAUGUST"TRK4INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+270        AX AA    C        00:01:25:09 00:01:27:28 01:40:23:11 01:40:26:00  
+* FROM CLIP NAME:  EXTREME"DRUMSOFAUGUST"TRK4INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+271        AX AA    C        00:01:30:07 00:01:30:24 01:40:26:00 01:40:26:17  
+* FROM CLIP NAME:  EXTREME"DRUMSOFAUGUST"TRK4INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+272        AX AA    C        00:01:30:24 00:01:31:20 01:40:26:17 01:40:27:13  
+* FROM CLIP NAME:  EXTREME"DRUMSOFAUGUST"TRK4INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+273        AX AA    C        00:01:31:20 00:01:33:00 01:40:27:13 01:40:28:23  
+* FROM CLIP NAME:  EXTREME"DRUMSOFAUGUST"TRK4INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+274        AX AA    C        00:02:02:21 00:02:13:10 01:40:28:23 01:40:39:12  
+* FROM CLIP NAME:  EXTREME"DRUMSOFAUGUST"TRK4INST.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+275        AX NONE  C        00:00:00:21 00:00:12:03 01:41:08:17 01:41:19:29  
+* FROM CLIP NAME:  THEGROWNUPNOISE"THEOLDESTRUNNINGFEATURE"INST.AIF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+276        AX NONE  C        00:00:12:03 00:00:36:03 01:41:19:29 01:41:43:29  
+* FROM CLIP NAME:  THEGROWNUPNOISE"THEOLDESTRUNNINGFEATURE"INST.AIF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+277        AX NONE  C        00:00:59:20 00:01:20:04 01:41:43:29 01:42:04:13  
+* FROM CLIP NAME:  THEGROWNUPNOISE"THEOLDESTRUNNINGFEATURE"INST.AIF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+278        AX NONE  C        00:03:05:14 00:03:19:00 01:42:04:13 01:42:17:29  
+* FROM CLIP NAME:  THEGROWNUPNOISE"THEOLDESTRUNNINGFEATURE"TRK7.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+279        AX NONE  C        00:03:19:19 00:03:43:28 01:42:17:29 01:42:42:08  
+* FROM CLIP NAME:  THEGROWNUPNOISE"THEOLDESTRUNNINGFEATURE"INST.AIF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+280        AX NONE  C        00:02:15:19 00:02:56:11 01:42:42:08 01:43:23:02  
+* FROM CLIP NAME:  THEGROWNUPNOISE"THEOLDESTRUNNINGFEATURE"INST.AIF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+281        AX AA    C        00:03:06:13 00:03:08:26 01:43:22:23 01:43:25:06  
+* FROM CLIP NAME:  THEGROWNUPNOISE"THEOLDESTRUNNINGFEATURE"INST.AIF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+282        AX NONE  C        00:03:30:28 00:03:45:25 01:43:24:10 01:43:39:07  
+* FROM CLIP NAME:  THEGROWNUPNOISE"THEOLDESTRUNNINGFEATURE"TRK7.AIFF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+AUD   3     4                                                                 
+
+283        AX AA    C        00:03:44:19 00:03:47:19 01:43:37:12 01:43:40:12  
+* FROM CLIP NAME:  THEGROWNUPNOISE"THEOLDESTRUNNINGFEATURE"INST.AIF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+284        AX AA    C        00:03:47:19 00:03:50:09 01:43:40:12 01:43:43:02  
+* FROM CLIP NAME:  THEGROWNUPNOISE"THEOLDESTRUNNINGFEATURE"INST.AIF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+285        AX AA    C        00:03:50:09 00:04:17:09 01:43:43:02 01:44:10:02  
+* FROM CLIP NAME:  THEGROWNUPNOISE"THEOLDESTRUNNINGFEATURE"INST.AIF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+286        AX AA    C        00:04:17:09 00:04:28:15 01:44:10:02 01:44:21:08  
+* FROM CLIP NAME:  THEGROWNUPNOISE"THEOLDESTRUNNINGFEATURE"INST.AIF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+287        AX AA    C        00:04:28:15 00:04:33:12 01:44:21:08 01:44:26:05  
+* FROM CLIP NAME:  THEGROWNUPNOISE"THEOLDESTRUNNINGFEATURE"INST.AIF
+* PROBLEM WITH EDIT: CLIP HAD NO TIMECODE TRACK.
+
+                                                                                                                                                                                            
