@@ -1,0 +1,11 @@
+How to use the testmain.py 29 June 2009.
+
+# Introduction #
+Ok, so this is how to use testmain.py to launch the GUI 29 June 2009 build.  Note that you shouled be running the Python 2.5.4 build with packages as required by the GUI and the project, like wx.  You can use whatever IDE / Compiler you want - I tried this on PyScripter 2.5 and the bundled Python 2.5 IDLE.
+
+
+# Details #
+
+First, you need to get the testmain.py and cueSmart\_GUI.py files on this repo and save them to the same folder.  Open up the testmain.py script, and there will be some straight forward things in there: import the cueSmart\_GUI.py classes and the MainLoop() run.  Compile and Run - horray, there's the 29 June 2009 build!  If it didn't work, you might want to fill your bathtub up with water and grab a toaster because really folks, it's that easy.
+
+cueSmart\_GUI.py handles the wx controls and contains two classes: clsMain() and clscueSmart().  To use these classes, just create a form object - clscueSmart(formobj) which handles the call to clsMain() which instantiates the form and set all the predefined controls. Done.
